@@ -15,6 +15,17 @@ font-size:2.5em;}
     text-align: left; /* Align text inside */
 }
 
+#tales {
+	float: left;
+	width: 600px;
+	border-bottom:solid 1px #000000;
+}
+
+
+
+
+
+
 .cheese {
      background-color: green;
     border: 2px solid #007BFF;
@@ -44,11 +55,7 @@ font-size:2.5em;}
 	margin-bottom: 0px;
 	margin-left: auto;
 }
-#tales {
-	float: left;
-	width: 600px;
-	border-bottom:solid 1px #000000;
-}
+
 
 #entertain {
 	float: left;
